@@ -1,0 +1,25 @@
+{
+  "name": "unit4-c4-eveluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarkarsubho/unit4-C4-eveluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarkarsubho/unit4-C4-eveluation/issues"
+  },
+  "homepage": "https://github.com/sarkarsubho/unit4-C4-eveluation#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8"
+  }
+}
