@@ -20,7 +20,7 @@ const login =async(req,res)=>{
     try{
         let user =await User.findOne(req.body.email);
 
-        if (user)
+        
         console.log(user);
 
     }catch(err){
